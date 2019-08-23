@@ -58,3 +58,18 @@ body{
     margin-top: 198px;
     margin-left: 30px;
 }
+
+.p{
+    width: 425px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    position: absolute;
+    z-index: 1;
+    margin-top: 323px;
+    margin-left: 30px;
+}
+
+.footer{
+    position: relative;
+    margin-top: 516px;
+}
